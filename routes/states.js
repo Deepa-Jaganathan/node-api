@@ -30,7 +30,7 @@ const stateObj = {
 // router.use('/', (req, res) => {
 //     res.send("GET request for states")
 // });
-
+//End point url https://node-api-point.herokuapp.com/states/getState
 router.get('/getState', (req, res) => {
     res.send(stateObj);
 });
