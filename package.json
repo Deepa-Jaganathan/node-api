@@ -1,8 +1,8 @@
 {
-  "name": "api",
+  "name": "node-api",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "dev-start": "nodemon app.js"
   },
